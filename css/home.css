@@ -43,7 +43,7 @@ p {
 .banner {
   height: 400px;
   width: 100%;
-  background: url("../imagens/Banner.jpg");
+  background: url("../imagens/banner.jpg");
   margin-top: 70px;
 }
 .banner h1 {

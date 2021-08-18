@@ -43,7 +43,7 @@ p {
 .contato {
   height: 400px;
   width: 100%;
-  background: url("../imagens/Banner.jpg");
+  background: url("../imagens/banner.jpg");
   margin-top: 70px;
 }
 .contato h1 {
@@ -69,6 +69,7 @@ p {
   margin-top: 55px;
   font-size: 25px;
   padding: 5px 2px;
+  background: #96723a;
 }
 .local img {
   margin-top: 55px;
